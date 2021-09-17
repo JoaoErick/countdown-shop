@@ -10,6 +10,8 @@
 ## 📚 Descrição ##
 Aplicação web destinada a implementação de uma contagem regressiva do lançamento de uma loja ou de alguma nova coleção.
 
+Esta implementação foi baseada no repositório: https://github.com/tigercodes-io/countdown
+
 **🔗 Tecnologias utilizadas:**
 - **HTML**
 - **CSS**
