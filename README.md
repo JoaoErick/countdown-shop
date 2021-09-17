@@ -22,6 +22,6 @@ Aplicação web destinada a implementação de uma contagem regressiva do lança
 ------------
 
 ## ⚖️ Licença ##
-[MIT License (MIT)]()
+[MIT License (MIT)](https://github.com/JoaoErick/countdown-shop/blob/main/LICENSE)
 
 
