@@ -1,0 +1,56 @@
+/* 
+  Author: João Erick Barbosa
+  E-mail: jsilva@ecomp.uefs.br
+*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  height: 100vh;
+  background: #f1f1f1;
+  display: grid;
+  align-items: center;
+}
+
+.countdown {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 250px));
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.countdown li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  padding: 1rem;
+  color: rgb(58, 58, 58);
+  text-align: center;
+  background: rgb(235, 235, 235);
+  border-radius: 10px;
+  box-shadow: 0 2px 2px rgb(173, 173, 173);
+}
+
+.countdown li span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 8rem;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(153, 153, 153);
+}
